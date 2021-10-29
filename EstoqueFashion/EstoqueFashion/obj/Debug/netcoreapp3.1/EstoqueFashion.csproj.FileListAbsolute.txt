@@ -32,7 +32,6 @@ C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\
 C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\netcoreapp3.1\staticwebassets\EstoqueFashion.StaticWebAssets.xml
 C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\netcoreapp3.1\scopedcss\bundle\EstoqueFashion.styles.css
 C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\netcoreapp3.1\EstoqueFashion.RazorTargetAssemblyInfo.cache
-C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\netcoreapp3.1\EstoqueFashion.csproj.CopyComplete
 C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\netcoreapp3.1\EstoqueFashion.dll
 C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\netcoreapp3.1\EstoqueFashion.pdb
 C:\Users\TECHSTUDIO\Desktop\estoque-api\EstoqueFashion\EstoqueFashion\obj\Debug\netcoreapp3.1\EstoqueFashion.genruntimeconfig.cache
